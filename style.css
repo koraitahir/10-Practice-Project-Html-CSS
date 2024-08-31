@@ -168,6 +168,12 @@ nav li:hover {
   transition: 0.3s ease-in-out;
   opacity: 0.8;
 }
+
+.card img{
+  width: 320px;
+  height: 360px;
+
+}
 .card:hover .card_content {
   background: white;
   color: var(--dark-color);
